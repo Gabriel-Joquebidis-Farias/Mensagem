@@ -19,13 +19,13 @@ namespace WinFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Mensagem1", "Aviso do sistema", MessageBoxButtons.OK);
-            MessageBox.Show("Mensagem2", "Aviso do sistema", MessageBoxButtons.OK);
-            MessageBox.Show("Mensagem3", "Aviso do sistema", MessageBoxButtons.OK);
-            MessageBox.Show("Mensagem4", "Aviso do sistema", MessageBoxButtons.OK);
-            MessageBox.Show("Mensagem5", "Aviso do sistema", MessageBoxButtons.OK);
-            MessageBox.Show("Mensagem6", "Aviso do sistema", MessageBoxButtons.OK);
-            MessageBox.Show("Mensagem7", "Aviso do sistema", MessageBoxButtons.OK);
+            MessageBox.Show("Querido professor matioli", "Aviso do sistema", MessageBoxButtons.OK);
+            MessageBox.Show("Fiquei sabendo que o senhor esta com problemas de saude", "Aviso do sistema", MessageBoxButtons.OK);
+            MessageBox.Show("venho lhe desejar melhoras", "Aviso do sistema", MessageBoxButtons.OK);
+            MessageBox.Show("Fique com Deus", "Aviso do sistema", MessageBoxButtons.OK);
+            MessageBox.Show("E que Deus te abençoe", "Aviso do sistema", MessageBoxButtons.OK);
+            MessageBox.Show("De seu querido aluno", "Aviso do sistema", MessageBoxButtons.OK);
+            MessageBox.Show("fulano de tal", "Aviso do sistema", MessageBoxButtons.OK);
             this.Close();
         }
     }
